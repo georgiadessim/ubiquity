@@ -483,7 +483,7 @@ left: calc(50% - 110px);
 
 .step-even {
 	background-color:#333;
-	color:#e5e5e5;
+	color:#fff;
 }
 
 .step-even .step-desc {
