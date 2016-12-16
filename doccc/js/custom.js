@@ -245,13 +245,13 @@ $(document).ready(function() {
 				
 				
 /* ----------------------------- 
-MailCimp Plugin Script 
+MailCimp Plugin Script password $Imon123 
 ----------------------------- */
 $(document).ready(function() {
 	'use strict';
 	$('#subscription-form').ajaxChimp({
 		callback: mailchimpCallback,
-		url: 'YOUR_URL' /* Replace it with your custom URL inside '' */
+		url: 'http://github.us14.list-manage.com/subscribe?u=5e21caa786b5659f6871a1ac4&id=507de619ad' /* Replace it with your custom URL inside '' */
 	});
 	
 	function mailchimpCallback(resp) {
