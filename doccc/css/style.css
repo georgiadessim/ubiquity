@@ -1,9 +1,4 @@
-/* ===========================
 
-Author: MH Rafi
-Website: http://themegret.com
-
-============================== */
 
 /* ==================== CSS Structure ==================== 
 1. COMMON STYLES
@@ -270,8 +265,8 @@ font-weight: 700;
 }
 
 .site-name {
-	color: #fff;
-	font-family: 'Bangers', cursive;
+	color: #8087af;
+	font-family: 'Lato', sans-serif;
 	font-size: 24px;
 	padding: 8px 15px;
 	letter-spacing: 1px;
